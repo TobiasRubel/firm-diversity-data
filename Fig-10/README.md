@@ -1,2 +1,1 @@
-# firm-diversity-data
-Data to reproduce figures for "Dropping diversity of products of large US firms: Models and measures"
+Each csv in this directory has 3 columns and an index of years. The first column contains specificities, the second is the numerator (mean within-class similarity), and the third is the denominator (between-class similarity). Plot the means of the first columns to get figure 10. You can see some example code in plot.py
